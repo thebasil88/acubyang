@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>{{ title }}</title>
+	<link rel="stylesheet" href="/style.css?v={% version %}"/>
+  </head>
+  <body>
+	{% include "partials/sitenav.html" %}
+	<main tabindex="-1" id="main-content">{% block content %}{% endblock %}</main>
+	{% include "partials/footer.html" %} 
+  </body>
+  <script defer src="https://unpkg.com/alpinejs@3.4.2/dist/cdn.min.js"></script>
+</html>

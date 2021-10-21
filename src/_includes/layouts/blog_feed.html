@@ -1,0 +1,8 @@
+{% extends "layouts/base.html" %} 
+
+{% block content %}	
+	{% set postListItems = pagination.items %}
+	<div class="lg:max-w-7xl lg:w-full mx-auto">
+		{% include "partials/blog.html" %} 
+	</div>
+{% endblock %}
