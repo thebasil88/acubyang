@@ -94,9 +94,9 @@ module.exports = config => {
 		markdownTemplateEngine: 'njk',
 		dataTemplateEngine: 'njk',
 		htmlTemplateEngine: 'njk',
-		/*dir:{
+		dir:{
 		  input: 'src',
 	  	  output: 'dist'
-		}*/
+		}
 	};
 };
