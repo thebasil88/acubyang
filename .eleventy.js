@@ -90,7 +90,8 @@ module.exports = config => {
 
 
 	//SET OUTPUT TO DIST FOLDER AND ALLOW THE USE OF NUNJUCKS IN STANDARD ENGINES
-	return {
+	
+	const returnConfig = {
 		markdownTemplateEngine: 'njk',
 		dataTemplateEngine: 'njk',
 		htmlTemplateEngine: 'njk',
@@ -99,4 +100,6 @@ module.exports = config => {
 	  	  output: 'dist'
 		}
 	};
+	config.cloudcannonOptions = eturnConfig;
+	return returnConfig;
 };
