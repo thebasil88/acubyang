@@ -4,7 +4,9 @@ layout: 'layouts/descriptor.html'
 ---
 # About Acupuncture
 
-​{% image "./src/images/acupuncturepoints_1.jpg", "acupuncture chart", "float-left mr-8", "(min-width: 30em) 50vw, 100vw" %}
+
+
+<img src="/images/acupuncturepoints_1.jpg" alt="acupuncture chart"  class="float-left mr-8"/> 
 
 ​
 Acupuncture is the insertion of fine needles into strategic points on the body to achieve overall wellness. This technique developed over 3,000 years ago and takes a holistic approach to healing. All the symptoms that you're feeling come down to one root diagnosis: an imbalance between internal organs, and/or pathology that has made it's way into your body. Acupuncture works to correct these imbalances and pathologies by supporting your body's natural ability to heal itself.
@@ -60,6 +62,6 @@ There are many studies being conducted on acupuncture but here are a few article
 
 ## Finding the Right Acupuncturist
 
-​{% image "./src/images/chinese-physician-taking-radial-pulse_1.jpg", "acupuncture chart", "float-right ml-8", "(min-width: 30em) 50vw, 100vw" %}
+<img src="/images//chinese-physician-taking-radial-pulse_1.jpg" alt="acupuncture chart"  class="float-right ml-8"/> 
 
 ​Whether you are in physical or emotional pain, facing a life threatening illness or simply want to keep yourself balanced, acupuncture can help. It is important to understand, however, that there are many different styles and needling techniques that are layered with the practitioner's own style and qi (energy) to create a treatment. If something isn't working, don't blame acupuncture. Finding the right acupuncturist is like finding the right medication and dose, you have to keep trying until you find what jives with you.

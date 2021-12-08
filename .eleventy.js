@@ -1,5 +1,6 @@
 const htmlmin = require('html-minifier')
 const now = String(Date.now())
+/*
 const Image = require("@11ty/eleventy-img");
 
 async function imageShortcode(src, alt, classes, sizes) {
@@ -23,6 +24,7 @@ async function imageShortcode(src, alt, classes, sizes) {
   return Image.generateHTML(metadata, imageAttributes);
   
 }
+*/
 
 module.exports = config => {	
 	// STYLESHEETS
@@ -83,11 +85,11 @@ module.exports = config => {
 	  './node_modules/alpinejs/dist/cdn.js': './js/alpine.js',
 	})
 
-	/* shortcodes for image */
-	config.addNunjucksAsyncShortcode("image", imageShortcode);
-	config.addLiquidShortcode("image", imageShortcode);
-	config.addJavaScriptFunction("image", imageShortcode);
-
+	/* shortcodes for image
+		config.addNunjucksAsyncShortcode("image", imageShortcode);
+		config.addLiquidShortcode("image", imageShortcode);
+		config.addJavaScriptFunction("image", imageShortcode);
+	 */
 
 	//SET OUTPUT TO DIST FOLDER AND ALLOW THE USE OF NUNJUCKS IN STANDARD ENGINES
 	
@@ -100,6 +102,6 @@ module.exports = config => {
 	  	  output: '_site'
 		}
 	};
-	config.cloudcannonOptions = eturnConfig;
+	config.cloudcannonOptions = returnConfig;
 	return returnConfig;
 };

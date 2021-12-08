@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-old": "npx eleventy --serve",
-    "start": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o dist/style.css --watch",
-    "build": "set ELEVENTY_PRODUCTION=true & set NODE_ENV=production & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o dist/style.css --minify & eleventy"
+    "start": "eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --watch",
+    "build": "set ELEVENTY_PRODUCTION=true & set NODE_ENV=production & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --minify & eleventy"
   },
   "author": "",
   "license": "ISC",
