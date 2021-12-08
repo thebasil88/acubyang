@@ -102,6 +102,5 @@ module.exports = config => {
 	  	  output: '_site'
 		}
 	};
-	config.cloudcannonOptions = returnConfig;
 	return returnConfig;
 };
