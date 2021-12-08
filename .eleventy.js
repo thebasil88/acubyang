@@ -102,5 +102,6 @@ module.exports = config => {
 	  	  output: '_site'
 		}
 	};
+	
 	return returnConfig;
 };
