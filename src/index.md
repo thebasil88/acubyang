@@ -1,6 +1,6 @@
 ---
 title: acubyang
-metadescription: lorem ipsum
+metadescription: An Zhuo Ya Acupuncture
 layout: layouts/home.html
 home_header:
   title1: An Zhuo Ya
