@@ -2,7 +2,9 @@
 
 {% block content %}	
 	{% set postListItems = pagination.items %}
-	<div class="lg:max-w-7xl lg:w-full mx-auto">
-		{% include "partials/blog.html" %} 
+	<div class="editable">
+		<div class="lg:max-w-7xl lg:w-full mx-auto">
+			{% include "partials/blog.html" %} 
+		</div>
 	</div>
 {% endblock %}

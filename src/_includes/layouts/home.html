@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="/style.css?v={% version %}"/>
   </head>
   <body>
-	<main tabindex="-1" id="main-content" class="editable">
+	<div tabindex="-1" id="main-content" class="editable">
 		<!-- partial -->
 		{% set homeHero = home_header %} 
 		{% include "partials/home_hero.html" %} 
@@ -21,7 +21,7 @@
 		<!--
 		{{ content | safe }}
 		-->
-	</main>
+	</div>
 	{% include "partials/footer.html" %} 
   </body>
   <script src="/js/alpine.js?v={% version %}"></script>
