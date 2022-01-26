@@ -1,7 +1,7 @@
 {% if homeHero %} 
   {% set heroPrefix = homeHero %}
 <!-- This example requires Tailwind CSS v2.0+ -->
-<div class="relative bg-white overflow-hidden">
+<div class="relative bg-white overflow-hidden"  x-data="{mobileOpen : false}">
   <div class="max-w-7xl mx-auto">
     <div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
       <svg class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
@@ -18,7 +18,7 @@
                   <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg">
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
-                  <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+                  <button @click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <!-- Heroicon name: outline/menu -->
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -49,15 +49,13 @@
 								{% for child in item.children %}
 								<a href="{{ child.url }}" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
+								 
 								  <div class="ml-4">
 									<p class="text-base font-medium text-gray-900">
 									  {{ child.text }}
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  {{ child.desc }}
 									</p>
 								  </div>
 								</a>
@@ -85,14 +83,14 @@
             From: "opacity-100 scale-100"
             To: "opacity-0 scale-95"
         -->
-        <div class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+        <div class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden"  x-show="mobileOpen">
           <div class="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
             <div class="px-5 pt-4 flex items-center justify-between">
               <div>
                 <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="">
               </div>
               <div class="-mr-2">
-                <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                <button @click="mobileOpen = !mobileOpen" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span class="sr-only">Close main menu</span>
                   <!-- Heroicon name: outline/x -->
                   <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -103,8 +101,7 @@
             </div>
             <div class="px-2 pt-2 pb-3 space-y-1">
 			  {% for item in navigation.items %}
-				<a href="{{ item.url }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">{{ item.text }} 
-				</a>
+				<a href="{{ item.url }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">{{ item.text }}</a>
               {% endfor %}
             </div>
           </div>
@@ -142,7 +139,7 @@
     </div>
   </div>
   <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-    <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80" alt="">
+    <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/oils.jpg" alt="">
   </div>
 </div>
 {% endif %}

@@ -1,0 +1,21 @@
+---
+title: 'Treating COVID-19 at home'
+date: '2020-03-23'
+tags: ['Tips And Tricks']
+---
+
+I'm going to be honest with you...unless you're showing severe symptoms, the doctors don't want to see you! It's nothing personal, there just really isn't much they can do for you. While understandable, that still leaves us with the question of, "well then what are we supposed to do?" The answer: home remedies. Chicken soup, epsom salt baths, tea with honey, warm olive oil in the ear, the list goes on...and the reason why we all know and use these? THEY WORK. In a time where the safest thing we can do is stay inside, it's time to put these tried and true treatments to work.​
+
+[​Ginger Scallion Broth](https://docs.google.com/document/d/e/2PACX-1vQN3mmBPGkwY_n4nH60MSlyZHMyA_RqSOx5Cu9HoQsSQLu40PRu1UJYb_xVMDn5mhPpmiHlssb3x5rl/pub): used to promote sweating, this broth will help you sweat out the symptoms. It can be used for colds, flus, fevers, sinus infections and upper respiratory infections.
+
+[Chicken Soup](https://docs.google.com/document/d/e/2PACX-1vQqIoBJU40lBbToQTYkyTw8rX8a99-6BQavpHfI_4qIWSgb0rltcj2crPmo3jAVNIzHRtwdqWcvqBdN/pub): If you don't already have one from grandma, this one is the next best thing. Studies suggest that chicken soup has anti-inflammatory properties which help treat the symptoms of colds and flus, and warm liquids also help to alleviate mucus. Not to mention, chicken soup simply warms the soul. This psychosomatic relief may be a placebo effect, but hey, it works!
+
+[Bone Broth](https://docs.google.com/document/d/e/2PACX-1vQhBiBxZtxracMXNnFp1bVu7kAPjNRJK9AweALUkar479qj0KDKsDQdyGXCeIEhTyXs6bvRdAu_mrun/pub): Not just a buzzword, bone broth is a great tonic for revitalizing those who are sick or getting over sickness. It's also great support for weak constitutions (anyone who gets sick easily).
+
+[Vegetable Broth](https://docs.google.com/document/d/e/2PACX-1vRycvconTttqKijrqH-WpRC4S0F6Cy7kb9UQujq9_7AycF6MIRvOJXm_yBz3qJt_ZUC0xvpmKNQHoaX/pub): Not a meat eater? Then this is for you. You can even use vegetable scraps to make it. Whever you cook, save the vegetable scraps (onion ends, carrot peels, etc) in a gallon sized freezer bag and pop them into the freezer. You can also add any veggies that may be overripe. Once the bag is full, make some soup!
+
+[Chai Tea](https://docs.google.com/document/d/e/2PACX-1vQdgvJAmOH-lj7J0IAyvuYnTRelg7SNSIuHlUvOF2svpzmC28xxvp6iA_Oc4D6N7G7v4nmQHsxJj0uI/pub): Nutritious and delicious. Chai tea is full of warming herbs that support the digestive and respiratory systems. There are three versions of this recipe, two of which include mushrooms: [chaga and reishi](https://www.mushroom-revival.com/difference-between-chaga-and-reishi/). Mushrooms are wonderful immune supporters and are considered adaptogens which help protect against physical and emotional stressors. Chaga even has anti-retroviral properties, meaning it protects against RNA replicating viruses (like coronavirus).
+
+Steaming: This can be used for upper respiratory infections and sinus infections. Simply boil water, pour it into a bowl, cover your head and the bowl with a towel and breathe in the steam for about 5 minutes once per day. You can also add a few drops of eucalyptus oil to the hot water or combine half a cup of apple cider vinegar with half a cup of water and boil that together. Both the apple cider vinegar and the eucalyptus oil have antimicrobial properties.
+
+[Rescue Remedy](https://www.directlyfromnature.com/Original_Bach_RESCUE_Remedy_s/1814.htm): Keeping our stress levels down is one of the best things we can do to support our immune system and overall wellbeing. Trust me when I say, rescue remedy is your new best friend. From serious trauma to everyday stressors, this stuff works immediately. How does it work so well? The secret is in their [formula's flower essences](http://www.bachflower.com/rescue-remedy-information/). Flowers are the highest evolutionary state of a plant. Stress isn't ours. Injesting flower essences brings our body to it's highest evolutionary state: peace. This can be purchased online or can be found at most natural foods stores, including Whole Foods.

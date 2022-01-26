@@ -1,6 +1,6 @@
 ---
 title: 'An Zhuo Ya Acupuncture || Appointments'
-metadescription: lorem ipsum
+metadescription: Learn how to make an appointment
 layout: 'layouts/descriptor.html'
 ---
 
@@ -18,9 +18,6 @@ My utmost concern is for the protection of ourselves and those around us.
 
 ### When and Where
 
-[Schedule Online](https://acusimple.com/access/4573/#/appointments/)
-
-Please call for same day appointments​
 
 __M:__ 10a.m.-2p.m.\
 __T-W:__ 10a.m.-6p.m.\

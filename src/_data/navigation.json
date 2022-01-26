@@ -15,18 +15,21 @@
 		},
 		{
 			"text": "Acupunture",
-			"url": "#",
+			"url": "/about-acupuncture/",
 			"children": [{
 					"text": "About Acupunture",
-					"url": "/about-acupuncture/"
+					"url": "/about-acupuncture/",
+					"desc": "Learn about how this ancient medicine can support you on your healthcare journey."
 				},
 				{
 					"text": "Trigger Point Dry Needling",
-					"url": "/trigger-point-dry-needling/"
+					"url": "/trigger-point-dry-needling/",
+					"desc": "A technique used to treat pain and referral patterns caused by knots in the muscles."
 				},
 				{
 					"text": "Facial Acupuncture",
-					"url": "/facial-acupuncture/"
+					"url": "/facial-acupuncture/",
+					"desc": "Not only for cosmetic purposes, this can also be used to treat neurological conditions affecting the face and head."
 				}
 			]
 		},

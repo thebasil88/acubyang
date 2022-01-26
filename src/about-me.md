@@ -1,6 +1,6 @@
 ---
 title: 'AcuByAng || About Me'
-metadescription: lorem ipsum
+metadescription: It all started when I was two years old and my mom took me to see New York Dance Theater's
 layout: 'layouts/descriptor.html'
 ---
 
