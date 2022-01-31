@@ -1,0 +1,18 @@
+---
+title: "How does acupuncture work?"
+date: '2019-04-11'
+tags: ['Tips And Tricks']
+---
+
+
+Well...that's a great question. To answer that from the western side, I'll have to write a whole other blog post. Basically, [stimulating the skin triggers a response in the Central Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3996195/) to release hormones that change how you feel and function, and fMRI studies show that [brain is affected by acupuncture](https://www.autonomicneuroscience.com/article/S1566-0702(15)00035-1/fulltext). Since acupuncture developed far before imaging technology (over 2,200 years before), we don't really need that to explain how it works. It does take an open mind, however, so stay with me here.
+
+As I explain on my [About Acupuncture](https://www.acubyang.com/about-acupuncture.html) page, we believe that your body is a self healing mechanism. Meaning that when things go wrong (pain or sickness for example), your body should be able to handle things all on it's own. If it can't, that means that some pathology, blockage in the flow of qi (energy) and blood, and/or imbalance between internal organs is preventing that mechanism. This is your root condition: the true reason why you are suffering. If we don't treat the root, no matter what we do for the symptoms, it won't actually cure them. Think of this like the treatment of a tree. If there are bugs eating at the roots, the branches may look brittle and bare. Cutting some of them down may help the others to thrive for a while, but eventually, they will become bare again. This is because the problem isn't too many branches, it's that the tree isn't getting enough nutrients. You must eliminate the bugs so that the roots can grow and provide the tree with what it needs to thrive. Acupuncture works to eliminate the bugs so that your body can thrive. In order to do that, however, we must first diagnose what the root condition is.\
+​\
+An accurate diagnosis requires 3 pieces of information: a detailed history, the symptoms you're feeling, and a reading of your tongue and pulse. The reason we need your complete history is because something that happened in your past could be influencing or contributing to what you are experiencing today. The symptoms will tell us how the root condition is manifesting in your body. Though this information is useful, it can be misleading because similar symptoms will manifest from different conditions. Like how a stuffy nose can be from allergies or a sinus infection. An accurate diagnosis is what leads to an accurate treatment, thus, the key to your diagnosis lies in your tongue and pulse. Different locations of your tongue and different positions of the pulse correspond to different areas and organs of your body. What we see and feel tells us what's happening. Theory will inform what points we use and how we activate them to correct what's happening.\
+That brings us to the final piece of the puzzle: treatment. Point selection and activation techniques vary between styles and theories of acupuncture but we are all working towards the same goal- it's different routes to the same location. This means that you can see 5 different acupuncturists, get the same diagnosis from each of them but receive 5 different treatments. This flexibility allows us to treat your root condition from several different angles, but one will be the most direct and effective path for you. Now, you just follow that path to wellness.
+
+So long story short, acupuncture works like this:\
+accurate diagnosis of the root condition -> accurate treatment of the root condition -> results
+
+Huh...that looks kind of like how medicine works, doesn't it?

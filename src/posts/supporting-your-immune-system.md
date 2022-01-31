@@ -1,0 +1,59 @@
+---
+title: 'Supporting your immune system'
+date: '2020-04-22'
+tags: ['Tips And Tricks']
+---
+
+We all know that a good offense is the best defense. Prevention is the best medicine, but when someone straight up coughs in your face, your immune system is the first line of defense, medicine (eastern and western) being the second. The stronger our immune system, the less need we have for external help from medicine. And let's be honest, does anyone actually enjoy taking medications? No. They certainly have their time and place, but if we can fight something off without their help, we become stronger and we're spared the "bubblegum flavor" that we all know is actually pink chalk. First, lets explain how the [immune system works](https://askabiologist.asu.edu/viral-attack-page-1)...
+
+Like a football team, the immune system is comprised of 2 parts working together: innate (defense) and acquired (offense). Your innate immune system is non-specific and reacts almost immediately to the presence of antigens- any foreign substance which induces an immune response in the body. It includes physical barriers like your skin and mucus membraines, and cells like white blood cells, neutrophils, and macrophages which patrol the body for dying cells, infected cells, and bacteria, and ingest them. If the innate immune system can't stop the antigens from reproducing, they'll notify the more specialized string of the immune cells via the Helper T-cells. Now, the the acquired immune system is activated. It's antigen-specific, meaning it can recognize a particular foreign body if you've come into contact with it before. If you havent, your immune system will remember it after you've fought it off. Helper T-cells are the quarterbacks coordinating the most effective attack strategy, and your Killer T-cells and B-cells are like your runningbacks and wide recievers. Helper T's use cytokines (proteins important in cell signaling) to call upon Killer T's, which attack and kill viruses, and B-cells which are responsible for remembering antigens and producing the corresponding antibody. Antibodies are proteins that attach to the antigen and act like a beacon, calling on other proteins to attack. Helper T-cells will also tell the Killer T and B-cells to reproduce so they can attack more antigens.
+
+So what can we do to support our body's natural defense? Well there's actually a few things and I bet you already know them...
+
+**Diet**\
+A healthy diet seems to be the first answer to every problem. But what actually is considered to be a healthy diet is different for everyone. I could talk for an hour about the diet fads and supplements in this country but I'll save that for another post... Chinese dietary theory takes a very easy approach: imagine your plate, cut it in half and then cut one half into quarters. One quarter is a protein about the size of your palm, the other quarter is a grain, and half the plate is veggies. Stick with that, [eat your colors](http://www.winmedical.org/our-services/clinics/family-medicine/healthy-eating/the-importance-of-a-colorful-diet/), and you'll cover your basic dietary needs. To boost the immune system, however, you need several key[ vitamins and minerals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6212925/):
+
+[Vitimin A ](https://ods.od.nih.gov/factsheets/VitaminA-Consumer/)can be found in dark leafy greens, or foods that are yellow or orange in color (carrots, sweet potatoes, mango, etc.). It helps to develop and regulate the immune system, and protects the epithelium (your skin) and mucus integrity.
+
+Vitamin B, more specifically [B6 ](https://ods.od.nih.gov/factsheets/VitaminB6-Consumer/)and [B12](https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/), can also be found in dark leafy greens, but additionally fruits, starchy vegetables, some animal proteins, nutritional yeast, and diary products. B6 aids in the development of white blood cells and production of antibodies, and B12 acts as an immunomodulator.
+
+[Vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/#h3) is most frequently associated with citrus fruits but it can also be found in many red and green veggies and even cauliflower. It supports the epithelial barrier, aids in the function of neutrophils and macrophages, and is active in the development of B- and T-cells.
+
+​[Vitamin D](https://ods.od.nih.gov/factsheets/VitaminD-Consumer/) can be found in some animal proteins, most dairy products (including plant based milks), mushrooms, but most importantly, the sun! This vitamin modulates both the innate and acquired immune systems and its deficiency is associated with autoimmune disorders and an increased susceptibility to infection.
+
+​[Vitamin E](https://ods.od.nih.gov/factsheets/VitaminE-Consumer/) is present in many vegetable oils, green veggies, and added to some fruit juices. It's an important antioxident, helps to modulate the immune system and Helper T-cells, aides in development and increases the activity of T-cells.
+
+[Folate](https://ods.od.nih.gov/factsheets/Folate-Consumer/), also known as folic acid, is another B vitamin naturally present in dark leafy greens, other green veggetables like asparagus, oranges, and legumes. Folate is essential in the reproduction and repair of DNA and production of RNA. DNA is the blueprint for all the proteins your body needs to function, RNA is how the body reads the blueprint. Like the language and coding of a computer.
+
+​[Iron ](https://ods.od.nih.gov/factsheets/Iron-Consumer/)isn't limited to red meat. It can also be found in legumes, peas, nuts, and spinach. Iron is necessary for the development of immune cells but is also essential in bacterial and parasidic. Our body actually creates proteins that prevent bacteria and parasites from using our available iron. Cool, right?
+
+[Selenium](https://ods.od.nih.gov/factsheets/Selenium-Consumer/) is primarily found in animal proteins, dairy products, and grains. This is another antioxident but is the main ingredient for selenoproteins which are key to cellular function and protein developement.
+
+[Copper](https://ods.od.nih.gov/factsheets/Copper-Consumer/) is present in some animal products, nuts and seeds, chocolate (score!), whole grain, potatoes, mushrooms, avocados, chickpeas, and tofu. It's uncertain exactly how copper aids immune function but it has been found that a deficiency in copper leads to a decrease in neutrophils and T-cells.
+
+[Zinc](https://ods.od.nih.gov/factsheets/Zinc-Consumer/)'s bes source is oysters but you can also enjoy other animal proteins, beans, nuts, whole grains, diary, and some fortified breakfast cereals. It's crucial in the development of both innate and acquired immune cells and the production of antibodies. Its also an antioxident and necessary for DNA replication, RNA transcription (how the body copies information from DNA), and the division, activation, and death of all cells.
+
+**Exercise and Sleep **\
+A regular exercise routine is imperetive to a healthy mind and body, but what many don't realize is that incorporating periods of rest and sleep is of equal importance. Hightlighting it's [effect on immunity](https://www.acsm.org/blog-detail/acsm-blog/2020/03/30/exercise-immunity-covid-19-pandemic), exercise induces the release of the patrolling neutrophils and macrophages, and cytokines that are produced in your sleep.​ Additionally, your immune system is activated and your body produces T cells and antigen-presenting cells during [sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256323/). Sleep also enhances your adaptive immune response (aka cell memory, aka antibodies).
+
+**Stress**\
+Global events such as the COVID-19 pandemic cause stress in more ways than we realize. It's not just the microsopic invader, it's the economy, being forced to stay home, and the inability to see our loved ones or find toilet paper. When our body is stressed, it basically shuts down all systems in an effort to conserve energy to either fight or run. [Cortisol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256323/), one of the major stress hormones,[ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256323/)causes a decrease in the blood T cell count​ and also suppresses the immune system in an effort to decrease inflammation so you can run faster or fight harder. You can read more about stress and it's effect on your body in my [blog post](https://www.acubyang.com/blog/stop-and-smell-theoh-got-to-go), but here are some ways you can mange it at home...
+
+Meditation\
+Studies show that meditation has a wide array of benefits like...
+
+-Alleviating stress, anxiety, depression, and PTSD\
+-Improved focus\
+-Lowering blood pressure\
+-Managing acute and chronic pain including fibromyalgia\
+-Regulating digestive distress
+
+One [study](https://journals.lww.com/psychosomaticmedicine/Abstract/2003/07000/Alterations_in_Brain_and_Immune_Function_Produced.14.aspx) found that meditation can help your body produce more antibodies after an influenza vaccine. This suggests that meditation may improve the functioning of your acquired immune system. The best part about meditation is that it actually [changes your brain activity](https://www.psychologytoday.com/us/blog/use-your-mind-change-your-brain/201305/is-your-brain-meditation). With regular practice, these changes become permanent. Need a place to start? Try the [Nine Breathings of Purification.](https://www.acubyang.com/blog/letting-go-of-the-got-finale)
+
+Therapy\
+A wonderful tool with a bad reputation. Societal norms make us believe that if we need therapy it's because we're "crazy" or "hysterical" or that we simply can't handle our lives, and that couldn't be further from the truth. We seek therapy every day in the counsel of our friends and family, so what's wrong with seeing a professional? Many are still offering tele-health treatments and can provide you with tools to help manage stress, anxiety, depression, flare ups of conditions associated with stress like obsessive compulsive disorder, etc. The moral of the story, don't be afraid or feel ashamed to seek help. We all need it.
+
+Exercise\
+Yup. [Exercise](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/exercise-and-stress/art-20044469) is so important that it's getting a second shout-out. It releases endorphins which are the neurotrasmitters that make you happy. More endorphins means less stress and depression, and increased self confidence and a sense of accomplishment. It can also help you to relax which leads to better sleep, and improve your focus. Since we can't go to the gym at this time, many fitness instructors are offering classes online for free through Instagram, Facebook, YouTube, and Zoom. This is a perfect opportunity to try new exercise techniques such as [Qi Gong](https://www.instagram.com/qi_gong_everyday/), [Pilates](https://www.instagram.com/solepilatesny/), or maybe even a [ballet class](https://www.instagram.com/tilerpeck/channel/), and don't forget that we can still go outside! Whether you like to walk, run, bike, or just dance in the sun and rain, you'll be exercising your body and your connection to mother Earth. Just make sure you are still practicing social distancing.
+
+Last, but certainly not least, see your doctors regularly. We're not here to only help the sick and suffering, we're here to promote the health and wellness of everyone. Be it your GP for your annual physical, the GI for a colonoscopy, your therapist, nutritionist, or acupuncturist, going regularly will keep your body at peak performance and catch anything that may be brewing before you start to feel symptoms. Prevention is the best medicine, and your medical team can help you with that too.

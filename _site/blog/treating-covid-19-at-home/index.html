@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Treating COVID-19 at home</title>
+	<link rel="stylesheet" href="/style.css?v=1643640804487"/>
+  </head>
+  <body>
+	<div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-7xl lg:w-full lg:pb-28 lg:mx-auto xl:pb-32">
+	
+      <svg class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+        <polygon points="50,0 100,0 50,100 0,100" />
+      </svg>
+
+      <div>
+        <div class="relative pt-6 px-4 sm:px-6 lg:px-8">
+          <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
+            <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
+              <div class="flex items-center justify-between w-full md:w-auto">
+                <a href="#">
+                  <span class="sr-only">Workflow</span>
+                  <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg">
+                </a>
+                <div class="-mr-2 flex items-center md:hidden">
+                  <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+                    <span class="sr-only">Open main menu</span>
+                    <!-- Heroicon name: outline/menu -->
+                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="hidden md:block md:ml-10 md:pr-2 md:space-x-6">
+		      
+				<div class="relative inline-block" x-data="{open : false}">
+					<a class="font-medium  text-gray-500 hover:text-gray-900" 
+																											href="/"
+																									   >Home
+					</a>
+				
+					
+				</div>
+			
+				
+				
+              
+				<div class="relative inline-block" x-data="{open : false}">
+					<a class="font-medium  text-gray-500 hover:text-gray-900" 
+																											href="/appointments/"
+																									   >Appointments
+					</a>
+				
+					
+				</div>
+			
+				
+				
+              
+				<div class="relative inline-block" x-data="{open : false}">
+					<a class="font-medium  text-gray-500 hover:text-gray-900" 
+																											x-on:click="open=!open"
+																									   >Acupunture
+					
+						<svg class="inline text-gray-400 h-5 w-5 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+							<path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+						</svg>
+					</a>
+				
+					
+						<div class="absolute z-10 -ml-4 mt-3 transform px-2 w-screen max-w-md sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2" x-show="open">
+							<div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
+							  <div class="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+								
+								<a href="/about-acupuncture/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+								  <!-- Heroicon name: outline/chart-bar -->
+								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								  </svg>
+								  <div class="ml-4">
+									<p class="text-base font-medium text-gray-900">
+									  About Acupunture
+									</p>
+									<p class="mt-1 text-sm text-gray-500">
+									  Get a better understanding of where your traffic is coming from.
+									</p>
+								  </div>
+								</a>
+								
+								<a href="/trigger-point-dry-needling/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+								  <!-- Heroicon name: outline/chart-bar -->
+								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								  </svg>
+								  <div class="ml-4">
+									<p class="text-base font-medium text-gray-900">
+									  Trigger Point Dry Needling
+									</p>
+									<p class="mt-1 text-sm text-gray-500">
+									  Get a better understanding of where your traffic is coming from.
+									</p>
+								  </div>
+								</a>
+								
+								<a href="/facial-acupuncture/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+								  <!-- Heroicon name: outline/chart-bar -->
+								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								  </svg>
+								  <div class="ml-4">
+									<p class="text-base font-medium text-gray-900">
+									  Facial Acupuncture
+									</p>
+									<p class="mt-1 text-sm text-gray-500">
+									  Get a better understanding of where your traffic is coming from.
+									</p>
+								  </div>
+								</a>
+								
+							  </div>
+							</div>
+						  </div>
+					
+				</div>
+			
+				
+				
+              
+				<div class="relative inline-block" x-data="{open : false}">
+					<a class="font-medium  text-gray-500 hover:text-gray-900" 
+																											href="/about-me/"
+																									   >About Me
+					</a>
+				
+					
+				</div>
+			
+				
+				
+              
+				<div class="relative inline-block" x-data="{open : false}">
+					<a class="font-medium  text-gray-500 hover:text-gray-900" 
+																											x-on:click="open=!open"
+																									   >Blog
+					
+						<svg class="inline text-gray-400 h-5 w-5 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+							<path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+						</svg>
+					</a>
+				
+					
+						<div class="absolute z-10 -ml-4 mt-3 transform px-2 w-screen max-w-md sm:px-0 lg:ml-0 lg:left-1/2 lg:-translate-x-1/2" x-show="open">
+							<div class="rounded-lg shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
+							  <div class="relative grid gap-6 bg-white px-5 py-6 sm:gap-8 sm:p-8">
+								
+								<a href="/blog" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+								  <!-- Heroicon name: outline/chart-bar -->
+								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								  </svg>
+								  <div class="ml-4">
+									<p class="text-base font-medium text-gray-900">
+									  My Blog
+									</p>
+									<p class="mt-1 text-sm text-gray-500">
+									  Get a better understanding of where your traffic is coming from.
+									</p>
+								  </div>
+								</a>
+								
+								<a href="https://www.youtube.com/channel/UCC5SFqWtgRBYGC28OAkxFpg" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
+								  <!-- Heroicon name: outline/chart-bar -->
+								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+								  </svg>
+								  <div class="ml-4">
+									<p class="text-base font-medium text-gray-900">
+									  Youtube
+									</p>
+									<p class="mt-1 text-sm text-gray-500">
+									  Get a better understanding of where your traffic is coming from.
+									</p>
+								  </div>
+								</a>
+								
+							  </div>
+							</div>
+						  </div>
+					
+				</div>
+			
+				
+				
+              
+            </div>
+          </nav>
+        </div>
+
+        <!--
+          Mobile menu, show/hide based on menu open state.
+
+          Entering: "duration-150 ease-out"
+            From: "opacity-0 scale-95"
+            To: "opacity-100 scale-100"
+          Leaving: "duration-100 ease-in"
+            From: "opacity-100 scale-100"
+            To: "opacity-0 scale-95"
+        -->
+        <div class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+          <div class="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
+            <div class="px-5 pt-4 flex items-center justify-between">
+              <div>
+                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="">
+              </div>
+              <div class="-mr-2">
+                <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                  <span class="sr-only">Close main menu</span>
+                  <!-- Heroicon name: outline/x -->
+                  <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div class="px-2 pt-2 pb-3 space-y-1">
+			  
+				<a href="/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Home 
+				</a>
+              
+				<a href="/appointments/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Appointments 
+				</a>
+              
+				<a href="/about-acupuncture/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Acupunture 
+				</a>
+              
+				<a href="/about-me/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About Me 
+				</a>
+              
+				<a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Blog 
+				</a>
+              
+            </div>
+          </div>
+        </div>
+		</div>
+</div>
+
+	<div class="editable" tabindex="-1" id="main-content">	
+	<div class="editable">
+		<article class=" prose prose-indigo px-4 lg:max-w-7xl lg:w-full mx-auto lg:px-8 lg:mb-16">
+			<h1>Treating COVID-19 at home</h1>
+			<p><span class="">date posted:</span> 2020-03-23</p>
+			<p>I'm going to be honest with you...unless you're showing severe symptoms, the doctors don't want to see you! It's nothing personal, there just really isn't much they can do for you. While understandable, that still leaves us with the question of, &quot;well then what are we supposed to do?&quot; The answer: home remedies. Chicken soup, epsom salt baths, tea with honey, warm olive oil in the ear, the list goes on...and the reason why we all know and use these? THEY WORK. In a time where the safest thing we can do is stay inside, it's time to put these tried and true treatments to work.​</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vQN3mmBPGkwY_n4nH60MSlyZHMyA_RqSOx5Cu9HoQsSQLu40PRu1UJYb_xVMDn5mhPpmiHlssb3x5rl/pub">​Ginger Scallion Broth</a>: used to promote sweating, this broth will help you sweat out the symptoms. It can be used for colds, flus, fevers, sinus infections and upper respiratory infections.</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vQqIoBJU40lBbToQTYkyTw8rX8a99-6BQavpHfI_4qIWSgb0rltcj2crPmo3jAVNIzHRtwdqWcvqBdN/pub">Chicken Soup</a>: If you don't already have one from grandma, this one is the next best thing. Studies suggest that chicken soup has anti-inflammatory properties which help treat the symptoms of colds and flus, and warm liquids also help to alleviate mucus. Not to mention, chicken soup simply warms the soul. This psychosomatic relief may be a placebo effect, but hey, it works!</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vQhBiBxZtxracMXNnFp1bVu7kAPjNRJK9AweALUkar479qj0KDKsDQdyGXCeIEhTyXs6bvRdAu_mrun/pub">Bone Broth</a>: Not just a buzzword, bone broth is a great tonic for revitalizing those who are sick or getting over sickness. It's also great support for weak constitutions (anyone who gets sick easily).</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vRycvconTttqKijrqH-WpRC4S0F6Cy7kb9UQujq9_7AycF6MIRvOJXm_yBz3qJt_ZUC0xvpmKNQHoaX/pub">Vegetable Broth</a>: Not a meat eater? Then this is for you. You can even use vegetable scraps to make it. Whever you cook, save the vegetable scraps (onion ends, carrot peels, etc) in a gallon sized freezer bag and pop them into the freezer. You can also add any veggies that may be overripe. Once the bag is full, make some soup!</p>
+<p><a href="https://docs.google.com/document/d/e/2PACX-1vQdgvJAmOH-lj7J0IAyvuYnTRelg7SNSIuHlUvOF2svpzmC28xxvp6iA_Oc4D6N7G7v4nmQHsxJj0uI/pub">Chai Tea</a>: Nutritious and delicious. Chai tea is full of warming herbs that support the digestive and respiratory systems. There are three versions of this recipe, two of which include mushrooms: <a href="https://www.mushroom-revival.com/difference-between-chaga-and-reishi/">chaga and reishi</a>. Mushrooms are wonderful immune supporters and are considered adaptogens which help protect against physical and emotional stressors. Chaga even has anti-retroviral properties, meaning it protects against RNA replicating viruses (like coronavirus).</p>
+<p>Steaming: This can be used for upper respiratory infections and sinus infections. Simply boil water, pour it into a bowl, cover your head and the bowl with a towel and breathe in the steam for about 5 minutes once per day. You can also add a few drops of eucalyptus oil to the hot water or combine half a cup of apple cider vinegar with half a cup of water and boil that together. Both the apple cider vinegar and the eucalyptus oil have antimicrobial properties.</p>
+<p><a href="https://www.directlyfromnature.com/Original_Bach_RESCUE_Remedy_s/1814.htm">Rescue Remedy</a>: Keeping our stress levels down is one of the best things we can do to support our immune system and overall wellbeing. Trust me when I say, rescue remedy is your new best friend. From serious trauma to everyday stressors, this stuff works immediately. How does it work so well? The secret is in their <a href="http://www.bachflower.com/rescue-remedy-information/">formula's flower essences</a>. Flowers are the highest evolutionary state of a plant. Stress isn't ours. Injesting flower essences brings our body to it's highest evolutionary state: peace. This can be purchased online or can be found at most natural foods stores, including Whole Foods.</p>
+
+		</article>
+	</div>
+</div>
+	<!-- This example requires Tailwind CSS v2.0+ -->
+<footer class="bg-white clear-both">
+  <div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
+	<p class="mb-8 text-center text-base text-gray-500">
+		Hours:<br />
+     
+        Monday: 10a.m.-2p.m.<br />
+    
+        Tuesday-Wednesday: 10a.m.-6p.m.<br />
+    
+        Thursday: 8a.m.-2p.m.<br />
+    
+    </p>
+    <nav class="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
+		 
+      <div class="px-5 py-2">
+        <a href="/" class="text-base text-gray-500 hover:text-gray-900">
+          Home
+        </a>
+      </div>
+	  
+      <div class="px-5 py-2">
+        <a href="/appointments/" class="text-base text-gray-500 hover:text-gray-900">
+          Appointments
+        </a>
+      </div>
+	  
+      <div class="px-5 py-2">
+        <a href="/about-acupuncture/" class="text-base text-gray-500 hover:text-gray-900">
+          Acupunture
+        </a>
+      </div>
+	  
+      <div class="px-5 py-2">
+        <a href="/about-me/" class="text-base text-gray-500 hover:text-gray-900">
+          About Me
+        </a>
+      </div>
+	  
+      <div class="px-5 py-2">
+        <a href="/blog/" class="text-base text-gray-500 hover:text-gray-900">
+          Blog
+        </a>
+      </div>
+	  
+    </nav>
+    <div class="mt-8 flex justify-center space-x-6">
+      <a href="https://www.facebook.com/acubyang/" class="text-gray-400 hover:text-indigo-600">
+        <span class="sr-only">Facebook</span>
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" />
+        </svg>
+      </a>
+	  
+	  <a href="https://twitter.com/acubyang" class="text-gray-400 hover:text-indigo-600">
+        <span class="sr-only">Twitter</span>
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" />
+        </svg>
+      </a>
+      <a href="https://www.linkedin.com/in/andrea-cillo-a72a4a7b/" class="text-gray-400 hover:text-indigo-600">
+        <span class="sr-only">LinkedIn</span>
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z" clip-rule="evenodd" />
+        </svg>
+      </a>
+
+    </div>
+	
+    <p class="mt-8 text-center text-base text-gray-400">
+      &copy; 2021 An Zhuo Ya Acupuncture, Inc. All rights reserved.
+    </p>
+  </div>
+</footer>
+ 
+  </body>
+  <script defer src="https://unpkg.com/alpinejs@3.4.2/dist/cdn.min.js"></script>
+</html>
