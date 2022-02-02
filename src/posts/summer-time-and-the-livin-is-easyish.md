@@ -1,5 +1,6 @@
 ---
 title: "Summer time and the livin' is easy...ish"
+slug: "Summer-time-and-the-livin-is-easy"
 date: '2019-06-21'
 ---
 

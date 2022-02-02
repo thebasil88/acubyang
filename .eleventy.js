@@ -1,4 +1,5 @@
 const htmlmin = require('html-minifier')
+const slugify = require('slugify')
 const now = String(Date.now())
 /*
 const Image = require("@11ty/eleventy-img");
@@ -52,7 +53,13 @@ module.exports = config => {
 		return content
 	})
 
-	
+	config.addFilter("slugify", function (str) {
+		return slugify(str, {
+		  lower: true,
+		  replacement: "-",
+		  remove: /[*+~.·,()'"`´%!?¿:@]/g
+		});
+	  });
 	
 	/*
 	const sortByDisplayOrder = require('./src/utils/sort-by-display-order.js');
