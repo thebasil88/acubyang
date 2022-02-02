@@ -1,10 +1,10 @@
 ---
 title: 'Coming together through COVID'
 date: '2020-04-13'
-tags: ['Tips And Tricks']
 ---
 
 As I mentioned in my last post, the silver lining of COVID-19 is how it's bringing us together in new ways. However, it may be difficult to find those new ways with limited interaction. So, here's a list of things we can do to help each other!
+
 
 **Donate a school meal**\
 Many children rely on their schools to get their breakfast and lunch. Now that they're closed, donation centers like [No Kid Hungry ](https://www.nokidhungry.org/)are dishing out the meals these children need. You can also donate food through [Island Harvest](https://www.islandharvest.org/) and [Long Island Cares](https://www.licares.org/).

@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Red, white and brown. Liniments to get you through your 4th</title>
-	<link rel="stylesheet" href="/style.css?v=1643640804487"/>
+	<link rel="stylesheet" href="/style.css?v=1643761927686"/>
   </head>
   <body>
-	<div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-7xl lg:w-full lg:pb-28 lg:mx-auto xl:pb-32">
+	<div class="relative z-10 pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-7xl lg:w-full lg:pb-28 lg:mx-auto xl:pb-32" x-data="{mobileOpen:false}">
 	
       <svg class="hidden lg:block absolute right-0 inset-y-0 h-full w-48 text-white transform translate-x-1/2" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
         <polygon points="50,0 100,0 50,100 0,100" />
@@ -19,12 +19,11 @@
           <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div class="flex items-center justify-between w-full md:w-auto">
-                <a href="#">
-                  <span class="sr-only">Workflow</span>
-                  <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg">
+                <a href="/">
+				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
-                  <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+                  <button  @click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <!-- Heroicon name: outline/menu -->
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -77,45 +76,36 @@
 								
 								<a href="/about-acupuncture/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
-								  <div class="ml-4">
+								  <div class="">
 									<p class="text-base font-medium text-gray-900">
 									  About Acupunture
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  Learn about how this ancient medicine can support you on your healthcare journey.
 									</p>
 								  </div>
 								</a>
 								
 								<a href="/trigger-point-dry-needling/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
-								  <div class="ml-4">
+								  <div class="">
 									<p class="text-base font-medium text-gray-900">
 									  Trigger Point Dry Needling
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  A technique used to treat pain and referral patterns caused by knots in the muscles.
 									</p>
 								  </div>
 								</a>
 								
 								<a href="/facial-acupuncture/" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
-								  <div class="ml-4">
+								  <div class="">
 									<p class="text-base font-medium text-gray-900">
 									  Facial Acupuncture
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  Not only for cosmetic purposes, this can also be used to treat neurological conditions affecting the face and head.
 									</p>
 								  </div>
 								</a>
@@ -158,30 +148,24 @@
 								
 								<a href="/blog" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
-								  <div class="ml-4">
+								  <div class="">
 									<p class="text-base font-medium text-gray-900">
 									  My Blog
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  
 									</p>
 								  </div>
 								</a>
 								
 								<a href="https://www.youtube.com/channel/UCC5SFqWtgRBYGC28OAkxFpg" class="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
 								  <!-- Heroicon name: outline/chart-bar -->
-								  <svg class="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-									<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-								  </svg>
-								  <div class="ml-4">
+								  <div class="">
 									<p class="text-base font-medium text-gray-900">
 									  Youtube
 									</p>
 									<p class="mt-1 text-sm text-gray-500">
-									  Get a better understanding of where your traffic is coming from.
+									  
 									</p>
 								  </div>
 								</a>
@@ -209,14 +193,14 @@
             From: "opacity-100 scale-100"
             To: "opacity-0 scale-95"
         -->
-        <div class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+        <div class="absolute z-10 top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden" x-show="mobileOpen">
           <div class="rounded-lg shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
             <div class="px-5 pt-4 flex items-center justify-between">
-              <div>
-                <img class="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="">
-              </div>
+                <a href="/">
+				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
+                </a>
               <div class="-mr-2">
-                <button type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                <button @click="mobileOpen = false" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span class="sr-only">Close main menu</span>
                   <!-- Heroicon name: outline/x -->
                   <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -239,7 +223,7 @@
 				<a href="/about-me/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">About Me 
 				</a>
               
-				<a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Blog 
+				<a href="/blog" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50">Blog 
 				</a>
               
             </div>

@@ -1,7 +1,6 @@
 ---
 title: "Red, white and brown. Liniments to get you through your 4th"
 date: '2019-07-03'
-tags: ['Tips And Tricks']
 ---
 
 Oh that smell! Can't you smell that smell? Nothing tells the world you have an injury with the same punch as liniment. Though the odor may be unpleasant to some, we can't deny that it helps alleviate pain from inflammation, pulled muscles, sprains, strains, twists, and all those other injuries weekend warriors and athletes alike obtain. But which is the best to use? How and when should they be applied? Let's go through my top 5:

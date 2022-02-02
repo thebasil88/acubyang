@@ -40,7 +40,7 @@
 		},
 		{
 			"text": "Blog",
-			"url": "#",
+			"url": "/blog",
 			"children": [{
 				"text": "My Blog",
 				"url": "/blog"

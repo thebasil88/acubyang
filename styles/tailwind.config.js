@@ -1,11 +1,14 @@
 module.exports = {
   purge: {
-	enabled: true,
+	enabled: false,
 	content: [
 		'./src/**/*.html',
 		'./src/**/*.md',
+		'./src/*.md',
+		'./src/*.html',
 	]
   },
+  important: true,
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {

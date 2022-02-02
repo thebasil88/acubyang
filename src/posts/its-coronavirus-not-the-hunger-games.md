@@ -1,7 +1,6 @@
 ---
 title: "It's coronavirus, not The Hunger Games"
 date: '2020-03-12'
-tags: ['Tips And Tricks']
 ---
 
 In light of Earth being cancelled, I thought it would be prudent to talk about everyone's favorite topic: coronavirus. First things first, turn off the news, and visit the [World Health Organization](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses) or [Center of Diesease Control's](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) websites. Most of what is reported (or what we hear while flipping through the channels) is twisted to grab our attention, and becuase of that, there is a lot of misinformation spreading around. For anyone who's read the information on WHO or the CDC's website, you've probably realized that the coronavirus isn't going to end the world. If you do think it's going to end the world, stop hoarding toilet paper. It won't save you. What will save you however, is knowledge. So let's take a deep breath and go over the basics, transmission, and prevention and put an end to the mass hysteria.

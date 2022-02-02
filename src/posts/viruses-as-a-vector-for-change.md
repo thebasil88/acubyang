@@ -1,7 +1,6 @@
 ---
 title: 'Viruses as a vector for change'
 date: '2020-04-01'
-tags: ['Tips And Tricks']
 ---
 
 

@@ -1,9 +1,7 @@
 ---
 title: "Loss"
 date: '2019-07-31'
-tags: ['Tips And Tricks']
 ---
-
  
 ​On Monday, July 22nd, I walked into the Frank Ohman School of Ballet with every intention to take class with my teacher and mentor of 24 years, Frank Ohman. But he didn't show.
 

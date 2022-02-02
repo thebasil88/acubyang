@@ -1,7 +1,6 @@
 ---
 title: 'Treating COVID-19 at home'
 date: '2020-03-23'
-tags: ['Tips And Tricks']
 ---
 
 I'm going to be honest with you...unless you're showing severe symptoms, the doctors don't want to see you! It's nothing personal, there just really isn't much they can do for you. While understandable, that still leaves us with the question of, "well then what are we supposed to do?" The answer: home remedies. Chicken soup, epsom salt baths, tea with honey, warm olive oil in the ear, the list goes on...and the reason why we all know and use these? THEY WORK. In a time where the safest thing we can do is stay inside, it's time to put these tried and true treatments to work.​

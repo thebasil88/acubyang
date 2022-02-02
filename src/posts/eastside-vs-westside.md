@@ -1,7 +1,6 @@
 ---
 title: "Eastside -vs- Westside"
 date: '2019-03-04'
-tags: ['Tips And Tricks']
 ---
 
 There seems to be an ongoing debate on which form of medicine is best: western (aka traditional) or eastern? In my opinion, they're two sides of the same coin. Two schools of thought which hold strength where the other has weakness. Both forms of medicine are complete in their understanding and treatment of the body, but we see things through different lenses which provide different perspectives on the same condition. As we all know, looking at something from a different angle can show us things that may have otherwise been missed. When east and west can work in sync, modern medicine will know no bounds.

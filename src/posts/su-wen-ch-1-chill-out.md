@@ -1,7 +1,6 @@
 ---
 title: "Su Wen Chapter 1 - Chill Out"
 date: '2019-10-28'
-tags: ['Tips And Tricks']
 ---
 
 It's been a while since my last post! I've been running around like a chicken without it's head and thought, "what a perfect time to blog about that constant, on-the-go lifestyle and why we shouldn't be doing it." The way we live here in NY, it's a miracle if we have any free time. If we're not at work, we're working around our homes, running errands, or taking care of others. Sleep? Fahgettaboudit. Vacation? What's that? Time to rest is a foreign concept these days, but back when our classic text the Su Wen was written (about 2,500 years ago), rest was imperative to a healthy lifestyle. In this excerpt is a conversation between the Yellow Emperor, Huang Di, and his acupuncturist, Qi Bo:

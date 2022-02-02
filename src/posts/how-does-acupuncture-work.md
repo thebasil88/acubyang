@@ -1,7 +1,6 @@
 ---
 title: "How does acupuncture work?"
 date: '2019-04-11'
-tags: ['Tips And Tricks']
 ---
 
 

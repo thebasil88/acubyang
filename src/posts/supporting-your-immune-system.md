@@ -1,7 +1,6 @@
 ---
 title: 'Supporting your immune system'
 date: '2020-04-22'
-tags: ['Tips And Tricks']
 ---
 
 We all know that a good offense is the best defense. Prevention is the best medicine, but when someone straight up coughs in your face, your immune system is the first line of defense, medicine (eastern and western) being the second. The stronger our immune system, the less need we have for external help from medicine. And let's be honest, does anyone actually enjoy taking medications? No. They certainly have their time and place, but if we can fight something off without their help, we become stronger and we're spared the "bubblegum flavor" that we all know is actually pink chalk. First, lets explain how the [immune system works](https://askabiologist.asu.edu/viral-attack-page-1)...

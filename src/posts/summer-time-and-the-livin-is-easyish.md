@@ -1,7 +1,6 @@
 ---
 title: "Summer time and the livin' is easy...ish"
 date: '2019-06-21'
-tags: ['Tips And Tricks']
 ---
 
 

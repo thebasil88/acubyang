@@ -1,7 +1,6 @@
 ---
 title: "Yin and Yang"
 date: '2018-10-18'
-tags: ['Tips And Tricks']
 ---
 
 Our first lesson in the basics of acupuncture theory starts here: the tai chi. Probably the most famous symbol representing the Chinese understanding of the universe. Everything in the known universe can be broken down into yin and yang, something and it's complement. Nothing can exist without it's complementary force because everything is defined by it's complementary force. I choose not to use the word "opposite" here because opposition suggests separation or conflict. In Chinese numerology, the number two represents division without separation. As you can see, though the symbol is divided into two colors, they are unified as one whole circle. Another reason why I choose the word compliment is because comparing yin and yang is relative. Take men and women for example. When comparing one to the other, men are yang, women are yin. If you were, however, to compare two women to each other, one being a ballet dancer and the other a construction worker, the former would be yin in relation to the yang of the later. To move a level deeper, there are yin and yang aspects within every individual. Referring back to our female construction worker, she may be yang while at work, but yin while she's home knitting.

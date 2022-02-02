@@ -1,7 +1,6 @@
 ---
 title: "Meditation and Letting Go of the GOT Finale"
 date: '2019-06-14'
-tags: ['Tips And Tricks']
 ---
 
 C'mon now, 2 more episodes would have filled in the blanks and we all wouldn't be nearly as upset with the writers of Game of Thrones. The unfortunate reality is they didn't and we were left with a very confusing and disappointing finale. If you're still feeling the sting (as I'm sure you are now because I just re-opened the wound), never fear, the Nine Breathings of Purification is here! The Nine Breathings of Purification is a Buddhist meditation technique that works to release the three root poisons: anger, attachment, and ignorance. These poisons are understood to be the root of all suffering and if you can release them, you will no longer suffer. I would like to make it clear that a lack of suffering doesn't mean you'll enjoy perfect health. Health and wellness are two sides of the same coin but I'll go into that in another post..."No longer suffering" means your maladies and frustrations in life (or with poor writing) won't affect your emotional health.

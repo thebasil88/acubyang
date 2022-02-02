@@ -92,7 +92,11 @@ module.exports = config => {
 	 */
 
 	//SET OUTPUT TO DIST FOLDER AND ALLOW THE USE OF NUNJUCKS IN STANDARD ENGINES
-	
+	config.setFrontMatterParsingOptions({
+		excerpt: true,
+		// Optional, default is "---"
+		excerpt_separator: "<!-- excerpt -->"
+	  });
 	const returnConfig = {
 		markdownTemplateEngine: 'njk',
 		dataTemplateEngine: 'njk',
