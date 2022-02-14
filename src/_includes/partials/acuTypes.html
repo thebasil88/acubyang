@@ -23,7 +23,7 @@
             </p>
             <div class="mt-6">
               <a href="/about-acupuncture" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700">
-                Learn More
+                Learn More <span class="sr-only">about acupuncture</span>
               </a>
             </div>
           </div>
@@ -31,7 +31,11 @@
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
         <div class="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none" src="/images/needles.jpg" alt="Customer profile user interface">
+			<picture>
+				<source srcset="/images/needles.webp" type="image/webp">
+				<source srcset="/images/needles.jpg"  type="image/jpeg">
+				<img src="/images/needles.jpg" class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none" alt="Spinal Acupuncture"/>
+			</picture>
         </div>
       </div>
     </div>
@@ -120,7 +124,11 @@ One BILLION stars!
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
         <div class="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="/images/apothecary.jpg" alt="Inbox user interface">
+			<picture>
+				<source srcset="/images/apothecary.webp" type="image/webp">
+				<source srcset="/images/apothecary.jpg"  type="image/jpeg">
+				<img src="/images/apothecary.jpg" class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" alt="Eastern Medicine"/>
+			</picture>
         </div>
       </div>
     </div>

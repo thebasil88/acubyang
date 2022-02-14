@@ -1,9 +1,11 @@
 module.exports = {
   purge: {
-	enabled: false,
+	enabled: true,
 	content: [
 		'./src/**/*.html',
+		'./src/**/**/*.html',
 		'./src/**/*.md',
+		'./src/**/**/*.md',
 		'./src/*.md',
 		'./src/*.html',
 	]

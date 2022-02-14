@@ -2,51 +2,65 @@
 
 {% block content %}	
 	<div class="editable">
-		<article class=" prose prose-indigo px-4 lg:max-w-7xl lg:w-full mx-auto lg:px-8 lg:mb-16">
+		<article class=" prose prose-indigo px-4 max-w-7xl lg:w-full mx-auto lg:px-8 lg:mb-16">
 			
 			<h1>Appointments</h1>
-			<h2> Notice about COVID-19</h2><p>My utmost concern is for the protection of ourselves and those around us. ​Please refer to my <a href="https://docs.google.com/document/d/e/2PACX-1vSBwpAXNVw10LrAqjU-qEiJYzxW8OHSOCZ3Stt6G4YWH_diTZ60U8qQ8yHkFgUPPFyQCpSWXyOUXzeW/pub">COVID-19 Safety Plan</a> to prepare yourself for your future treatments. ​We must work together to stop the spread.</p>
-			<h3 class="text-center">Services</h3>
-			<div class="flex flex-row align-center justify-center space-x-12 w-full"> 
-				<div class="flex-1"><a href="/about-acupuncture/">Acupuncture​</a></div>
-				<div class="flex-1"><a href="/trigger-point-dry-needling/">Trigger Point Dry Needling</a></div>
-				<div class="flex-1"><a href="/facial-acupuncture/">Facial Acupuncture</a></div>
-			</div>
-			<div>
-			<h3 class="text-center"> When and Where</h3>
-			<p  class="text-center">
-			<strong>M:</strong> 10a.m.-2p.m.<br />
-			<strong>T-W:</strong> 10a.m.-6p.m.<br />
-			<strong>Th:</strong> 8a.m.-2p.m.
-			</p>
-			
-			<h4  class="text-center">​Salons by JC (next door to Old Navy)</h4>
-			<p  class="text-center">
-				876 Sunrise Hwy.<br />
-				Suite 20<br />
-				Bay Shore, NY 11706</br >
-				<a href="https://www.google.com/maps/dir//Planet+Fitness,+894+Sunrise+Hwy+A,+Bay+Shore,+NY+11706/@40.72874,-73.277703,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e82d7e2afdd351:0xc65aca0e60d30714!2m2!1d-73.2769388!2d40.7285919?hl=en-US">Get Directions</a>
-			</p>
-			<div class="max-w-2xl">
-				<h3>Forms</h3>
+			{% if show_covid_warning %} 
+				<div class="border-2 border-solid border-red-900 bg-red-100 p-4 mb-8" style="">
+					<h2 class="text-red-900 mt-0"> Notice about COVID-19</h2>
+					<p  class="text-red-900 mb-0">My utmost concern is for the protection of ourselves and those around us.<br />Please refer to my <a href="https://docs.google.com/document/d/e/2PACX-1vSBwpAXNVw10LrAqjU-qEiJYzxW8OHSOCZ3Stt6G4YWH_diTZ60U8qQ8yHkFgUPPFyQCpSWXyOUXzeW/pub">COVID-19 Safety Plan</a> to prepare yourself for your future treatments. ​We must work together to stop the spread.</p>
+				</div>
+			{% endif %}
+			<div class="block md:flex flex-row md:space-x-8">
+				<div class="w-full md:w-1/3 bg-gray-100 px-4 pb-8">
+					<h3 class="text-center">Services</h3>
+						<div class="text-center ">
+						<a class="block px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 no-underline" href="/about-acupuncture/">Acupuncture​</a><br />
+						<a class="block px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 no-underline" href="/trigger-point-dry-needling/">Trigger Point Dry Needling</a><br />
+						<a class="block px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 no-underline" href="/facial-acupuncture/">Facial Acupuncture</a><br />
+						</div>
+						<div>
+						<h3 class="text-center"> When and Where</h3>
+						<p  class="text-center">
+						<strong>M:</strong> 10a.m.-2p.m.<br />
+						<strong>T-W:</strong> 10a.m.-6p.m.<br />
+						<strong>Th:</strong> 8a.m.-2p.m.
+						</p>
+						
+						<h4  class="text-center">​Salons by JC (next door to Old Navy)</h4>
+						<p  class="text-center">
+							876 Sunrise Hwy.<br />
+							Suite 20<br />
+							Bay Shore, NY 11706</br >
+							<a class="block px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 no-underline" href="https://www.google.com/maps/dir//Planet+Fitness,+894+Sunrise+Hwy+A,+Bay+Shore,+NY+11706/@40.72874,-73.277703,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89e82d7e2afdd351:0xc65aca0e60d30714!2m2!1d-73.2769388!2d40.7285919?hl=en-US">Get Directions</a>
+						</p>
+						</div>
+				</div>
+				<div class="w-full md:w-2/3">
+					<div class="max-w-2xl">
+					<h3>Forms</h3>
 
-				<p>
-				These forms can be filled out prior to your first visit online via tha Patient Portal, or you can use the links below to print the documents and bring them with you.
-				</p>
-				<ul>
-					<li><a href="https://acusimple.com/access/4573/#/portal/">Patient Portal</a></li>
-					<li><a href="https://docs.google.com/document/d/e/2PACX-1vSBwpAXNVw10LrAqjU-qEiJYzxW8OHSOCZ3Stt6G4YWH_diTZ60U8qQ8yHkFgUPPFyQCpSWXyOUXzeW/pub">COVID-19 Safety Plan</a></li>
-					<li><a href="https://docs.google.com/document/d/e/2PACX-1vTKH7s-rZSnQzB3N1E2Z8BRcqIFMEwrnNugsC9qA4bgH1KmR3oAtwQPVZZdjjdhh7zC3fwMsvudbs5u/pub">Informed Consent and Disclosure</a></li>
-					<li><a href="https://docs.google.com/document/d/e/2PACX-1vQ3_Q1Bvwlltf35GvXkfVlMRngUmi7a92lyhMW798yhs_t426TjlOQxJz4UgAcDhbk2_DSzWy3iU74N/pub">Treatment Terms and Conditions</a></li>
-					<li><a href="https://docs.google.com/document/d/e/2PACX-1vTndOme7Qm9XJNuoj0OTKJc1xuy3FK30DQ_O9x3t_vg9uFxW4d0tJtiCrRnI1hOMg817JV9IzN0PDgu/pub">Telehealth Agreement</a></li>
-					<li><a href="https://docs.google.com/document/d/1Yt6LLz92NB0srC7JEvwPIgOwK-cfi56sBMsnmdbuCWs/edit">​Credit Card Authrorization</a></li>
-					<li><a href="https://www.nycourts.gov/forms/hipaa_fillable.pdf">HIPPA- Authorization for Release of Health Information</a></li>
-				</ul>
+					<p>
+						These forms can be filled out prior to your first visit online via tha Patient Portal, or you can use the links below to print the documents and bring them with you.
+						</p>
+						<ul>
+							<li><a href="https://acusimple.com/access/4573/#/portal/">Patient Portal</a></li>
+							<li><a href="https://docs.google.com/document/d/e/2PACX-1vSBwpAXNVw10LrAqjU-qEiJYzxW8OHSOCZ3Stt6G4YWH_diTZ60U8qQ8yHkFgUPPFyQCpSWXyOUXzeW/pub">COVID-19 Safety Plan</a></li>
+							<li><a href="https://docs.google.com/document/d/e/2PACX-1vTKH7s-rZSnQzB3N1E2Z8BRcqIFMEwrnNugsC9qA4bgH1KmR3oAtwQPVZZdjjdhh7zC3fwMsvudbs5u/pub">Informed Consent and Disclosure</a></li>
+							<li><a href="https://docs.google.com/document/d/e/2PACX-1vQ3_Q1Bvwlltf35GvXkfVlMRngUmi7a92lyhMW798yhs_t426TjlOQxJz4UgAcDhbk2_DSzWy3iU74N/pub">Treatment Terms and Conditions</a></li>
+							<li><a href="https://docs.google.com/document/d/e/2PACX-1vTndOme7Qm9XJNuoj0OTKJc1xuy3FK30DQ_O9x3t_vg9uFxW4d0tJtiCrRnI1hOMg817JV9IzN0PDgu/pub">Telehealth Agreement</a></li>
+							<li><a href="https://docs.google.com/document/d/1Yt6LLz92NB0srC7JEvwPIgOwK-cfi56sBMsnmdbuCWs/edit">​Credit Card Authrorization</a></li>
+							<li><a href="https://www.nycourts.gov/forms/hipaa_fillable.pdf">HIPPA- Authorization for Release of Health Information</a></li>
+						</ul>
+					</div>
+					<h3>Give the gift of healing</h3>
+					<p><a href="https://squareup.com/gift/8PDMBAH3S9T0C/order" class="button">Buy a Gift Card</a></p>
+					
+					<h3>​​I am happy to provide CBD oil courtesy of <a href="https://www.buddhabellybang.com/">Buddha Belly Bang</a>.</h3>
+				</div>
 			</div>
-			<h3>Give the gift of healing</h3>
-			<p><a href="https://squareup.com/gift/8PDMBAH3S9T0C/order" class="button">Buy a Gift Card</a></p>
 			
-			<h3>​​I am happy to provide CBD oil courtesy of <a href="https://www.buddhabellybang.com/">Buddha Belly Bang</a>.</h3>
+			
 		</article>
 	</div>
 {% endblock %}

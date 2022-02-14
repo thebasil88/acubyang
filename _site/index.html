@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>An Zhuo Ya Acupuncture</title>
-	<meta name="description" content="" />
-	<link rel="stylesheet" href="/style.css?v=1644368322232" />
+    <title>An Zhuo Ya Acupuncture | Long Island Acupuncturist</title>
+	<meta name="description" content="Suffolk Counties Friendliest Acupuncturist, skilled in Acupuncture, Trigger Point Dry Needling, and Facial Acupuncture" />
+	<link rel="stylesheet" href="/style.css?v=1644797303929" />
   </head>
   <body>
 	<div tabindex="-1" id="main-content" class="editable">
@@ -23,12 +23,16 @@
       </svg>
 
       <div>
-        <div class="relative pt-6 px-4 sm:px-6 lg:px-8">
+        <div class="relative pt-6 px-4 sm:px-6 lg:pl-8">
           <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div class="flex items-center justify-between w-full md:w-auto">
                <a href="/">
-				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
+					<picture>
+						<source srcset="/images/logo.webp" type="image/webp">
+						<source srcset="/images/logo.jpg"  type="image/jpeg">
+						<img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16" alt="An Zhuo Ya Acupuncture"/>
+					</picture>
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
                   <button @click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
@@ -69,7 +73,8 @@
               
 				<div class="relative inline-block" x-data="{open : false}">
 					<a class="font-medium  text-gray-500 hover:text-gray-900" 
-																											x-on:click="open=!open"
+																											href="/about-acupuncture/"
+																											@click.prevent="open=!open"
 																									   >Acupunture
 					
 						<svg class="inline text-gray-400 h-5 w-5 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -144,7 +149,8 @@
               
 				<div class="relative inline-block" x-data="{open : false}">
 					<a class="font-medium  text-gray-500 hover:text-gray-900" 
-																											x-on:click="open=!open"
+																											href="/blog"
+																											@click.prevent="open=!open"
 																									   >Blog
 					
 						<svg class="inline text-gray-400 h-5 w-5 group-hover:text-gray-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
@@ -211,7 +217,11 @@
             <div class="px-5 pt-4 flex items-center justify-between">
               <div>
                 <a href="/">
-				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
+					<picture>
+						<source srcset="/images/logo.webp" type="image/webp">
+						<source srcset="/images/logo.jpg"  type="image/jpeg">
+						<img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16" alt="An Zhuo Ya Acupuncture"/>
+					</picture>
                 </a>
               </div>
               <div class="-mr-2">
@@ -272,7 +282,11 @@
     </div>
   </div>
   <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-    <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/oils.jpg" alt="">
+	<picture>
+		<source srcset="/images/oils.webp" type="image/webp">
+		<source srcset="/images/oils.jpg"  type="image/jpeg">
+		<img src="/images/oils.jpg"  class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" alt="Essential Oils in use with Acupuncture"/>
+	</picture>
   </div>
 </div>
  
@@ -302,7 +316,7 @@
             </p>
             <div class="mt-6">
               <a href="/about-acupuncture" class="inline-flex px-4 py-2 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700">
-                Learn More
+                Learn More <span class="sr-only">about acupuncture</span>
               </a>
             </div>
           </div>
@@ -310,7 +324,11 @@
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0 lg:col-start-1">
         <div class="pr-4 -ml-48 sm:pr-6 md:-ml-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none" src="/images/needles.jpg" alt="Customer profile user interface">
+			<picture>
+				<source srcset="/images/needles.webp" type="image/webp">
+				<source srcset="/images/needles.jpg"  type="image/jpeg">
+				<img src="/images/needles.jpg" class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:right-0 lg:h-full lg:w-auto lg:max-w-none" alt="Spinal Acupuncture"/>
+			</picture>
         </div>
       </div>
     </div>
@@ -399,7 +417,11 @@ One BILLION stars!
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
         <div class="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="/images/apothecary.jpg" alt="Inbox user interface">
+			<picture>
+				<source srcset="/images/apothecary.webp" type="image/webp">
+				<source srcset="/images/apothecary.jpg"  type="image/jpeg">
+				<img src="/images/apothecary.jpg" class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" alt="Eastern Medicine"/>
+			</picture>
         </div>
       </div>
     </div>
@@ -407,8 +429,13 @@ One BILLION stars!
 </div>
  
 		
-		 
-		 
+		
+		<!--
+		
+		-->
+	</div>
+	 
+	 
   
 <!--
   This example requires Tailwind CSS v2.0+ 
@@ -575,10 +602,6 @@ One BILLION stars!
   </div>
 </div>
  
-		<!--
-		
-		-->
-	</div>
 	<!-- This example requires Tailwind CSS v2.0+ -->
 <footer class="bg-white clear-both">
   <div class="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
@@ -648,12 +671,12 @@ One BILLION stars!
 
     </div>
 	
-    <p class="mt-8 text-center text-base text-gray-400">
-      &copy; 2021 An Zhuo Ya Acupuncture, Inc. All rights reserved.
+    <p class="mt-8 text-center text-base text-gray-500">
+      &copy; 2022 An Zhuo Ya Acupuncture, Inc. All rights reserved.
     </p>
   </div>
 </footer>
  
   </body>
-  <script src="/js/alpine.js?v=1644368322232"></script>
+  <script src="/js/alpine.js?v=1644797303929"></script>
 </html>

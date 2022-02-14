@@ -7,6 +7,8 @@ module.exports = {
    * @param {String} pageUrl The page context
    * @returns {String} The attributes or empty
    */
+ 
+  
   getLinkActiveState(itemUrl, pageUrl) {
     let response = '';
 
@@ -17,9 +19,10 @@ module.exports = {
 	{
 		response = ' text-gray-500 hover:text-gray-900';
 	}
-
-  
-
     return response;
+  },
+  currentYear() {
+    const today = new Date();
+    return today.getFullYear();
   }
 };

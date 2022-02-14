@@ -1,6 +1,6 @@
 ---
-title: An Zhuo Ya Acupuncture
-metadescription: 
+title: An Zhuo Ya Acupuncture | Long Island Acupuncturist
+metadescription: Suffolk Counties Friendliest Acupuncturist, skilled in Acupuncture, Trigger Point Dry Needling, and Facial Acupuncture
 layout: layouts/home.html
 home_header:
   title1: An Zhuo Ya

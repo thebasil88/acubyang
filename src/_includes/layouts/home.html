@@ -16,12 +16,13 @@
 		
 		{% include "partials/acuTypes.html" %} 
 		
-		{% set contactForm = contact_form %} 
-		{% include "partials/contactform.html" %} 
+		
 		<!--
 		{{ content | safe }}
 		-->
 	</div>
+	{% set contactForm = contact_form %} 
+	{% include "partials/contactform.html" %} 
 	{% include "partials/footer.html" %} 
   </body>
   <script src="/js/alpine.js?v={% version %}"></script>

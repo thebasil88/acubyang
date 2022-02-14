@@ -9,12 +9,16 @@
       </svg>
 
       <div>
-        <div class="relative pt-6 px-4 sm:px-6 lg:px-8">
+        <div class="relative pt-6 px-4 sm:px-6 lg:pl-8">
           <nav class="relative flex items-center justify-between sm:h-10 lg:justify-start" aria-label="Global">
             <div class="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
               <div class="flex items-center justify-between w-full md:w-auto">
                <a href="/">
-				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
+					<picture>
+						<source srcset="/images/logo.webp" type="image/webp">
+						<source srcset="/images/logo.jpg"  type="image/jpeg">
+						<img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16" alt="An Zhuo Ya Acupuncture"/>
+					</picture>
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
                   <button @click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
@@ -31,7 +35,8 @@
 		      {% for item in navigation.items %}
 				<div class="relative inline-block" x-data="{open : false}">
 					<a class="font-medium {{ helpers.getLinkActiveState(item.url, page.url) | safe }}" {% if item.children.length > 0 %}
-																											x-on:click="open=!open"
+																											href="{{ item.url }}"
+																											@click.prevent="open=!open"
 																									   {% else %}
 																											href="{{ item.url }}"
 																									   {% endif %}>{{ item.text }}
@@ -87,7 +92,11 @@
             <div class="px-5 pt-4 flex items-center justify-between">
               <div>
                 <a href="/">
-				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
+					<picture>
+						<source srcset="/images/logo.webp" type="image/webp">
+						<source srcset="/images/logo.jpg"  type="image/jpeg">
+						<img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16" alt="An Zhuo Ya Acupuncture"/>
+					</picture>
                 </a>
               </div>
               <div class="-mr-2">
@@ -140,7 +149,11 @@
     </div>
   </div>
   <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-    <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" src="/images/oils.jpg" alt="">
+	<picture>
+		<source srcset="/images/oils.webp" type="image/webp">
+		<source srcset="/images/oils.jpg"  type="image/jpeg">
+		<img src="/images/oils.jpg"  class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full" alt="Essential Oils in use with Acupuncture"/>
+	</picture>
   </div>
 </div>
 {% endif %}

@@ -1,6 +1,6 @@
 ---
 title: 'AcuByAng || About Me'
-metadescription: It all started when I was two years old and my mom took me to see New York Dance Theater's
+metadescription: Learan Andrea (Cillo) Blom's background in Acupuncture and Dry Needling
 layout: 'layouts/descriptor.html'
 ---
 
