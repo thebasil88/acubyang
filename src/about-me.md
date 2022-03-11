@@ -1,7 +1,7 @@
 ---
-title: 'AcuByAng || About Me'
-metadescription: Learan Andrea (Cillo) Blom's background in Acupuncture and Dry Needling
-layout: 'layouts/descriptor.html'
+title: AcuByAng || About Me
+metadescription: Learn Andrea (Cillo) Blom's background in Acupuncture and Dry Needling
+layout: layouts/descriptor.html
 ---
 
 # About Andrea (Cillo) Blom M.S., L.Ac.
@@ -16,4 +16,4 @@ After receiving my associates in biology, I attended the Tri-State College of Ac
 
 What I've learned in acupuncture school influenced my ballet technique, and my dancing provides me with a deep understanding of the body. I have learned through both that what's emotional becomes visceral and the body is what tells the story - *your* story. With this combined knowledge, I offer a unique treatment style that blends the physical, emotional, mental, and spiritual parts to see each patient as a whole being. My ultimate goal is to teach my patients how to be well through every level, not just how to manage their superficial symptoms.
 
-So if you are ready and committed to starting your wellness journey, I would be honored to offer a guiding light. I'll walk alongside and support you on your individual path of healing until you are ready to walk it on your own.
+##### So if you are ready and committed to starting your wellness journey, I would be honored to offer a guiding light. I'll walk alongside and support you on your individual path of healing until you are ready to walk it on your own.
