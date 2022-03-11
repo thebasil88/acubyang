@@ -6,9 +6,9 @@ layout: 'layouts/descriptor.html'
 
 # About Acupuncture
 
-<img alt="acupuncture chart" class="float-left mr-8" src="/images/acupuncturepoints_1.jpg" />
+<img alt="acupuncture chart" class="float-left mr-8" src="/images/acupuncturepoints_1.jpg" />​​​​​
 
-​ Acupuncture is the insertion of fine needles into strategic points on the body to achieve overall wellness. This technique developed over 3,000 years ago and takes a holistic approach to healing. All the symptoms that you're feeling come down to one root diagnosis: an imbalance between internal organs, and/or pathology that has made it's way into your body. Acupuncture works to correct these imbalances and pathologies by supporting your body's natural ability to heal itself.
+Acupuncture is the insertion of fine needles into strategic points on the body to achieve overall wellness. This technique developed over 3,000 years ago and takes a holistic approach to healing. All the symptoms that you're feeling come down to one root diagnosis: an imbalance between internal organs, and/or pathology that has made it's way into your body. Acupuncture works to correct these imbalances and pathologies by supporting your body's natural ability to heal itself.
 
 You and I are a team. That means that you have as big a role in your healing as I do. Think of it this way: you want to go to the supermarket but there's been a hurricane and there are tree branches blocking your path. What do you do? Call the town, they remove the branches, and then you can travel to the supermarket. Your heath is no different. You have your goal in health, you call your friendly neighborhood acupuncturist, I help remove the obstacles in your path, but you must travel on that path to obtain your goal. *Your* health is *your* responsibility, and your healthcare team is here to support you. ​
 
