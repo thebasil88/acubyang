@@ -26,9 +26,7 @@
     <div class="mt-6 pt-10 grid gap-16 lg:grid-cols-2 lg:gap-x-5 lg:gap-y-12">
       {% for item in postListItems %}
 		<div>
-			<p class="text-sm text-gray-500">
-			  <time datetime="{{ item.data.date }}">{{ item.data.date }}</time>
-			</p>
+			
 			<a href="{{ item.url }}" class="mt-2 block">
 			  <p class="text-xl font-semibold text-gray-900">
 				{{ item.data.title }}
