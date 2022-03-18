@@ -12,6 +12,10 @@ Acupuncture is the insertion of fine needles into strategic points on the body t
 
 You and I are a team. That means that you have as big a role in your healing as I do. Think of it this way: you want to go to the supermarket but there's been a hurricane and there are tree branches blocking your path. What do you do? Call the town, they remove the branches, and then you can travel to the supermarket. Your heath is no different. You have your goal in health, you call your friendly neighborhood acupuncturist, I help remove the obstacles in your path, but you must travel on that path to obtain your goal. *Your* health is *your* responsibility, and your healthcare team is here to support you. ​
 
+## &nbsp;
+
+## &nbsp;
+
 ## What to expect
 
 Your initial visit with me will run from 1.5-2 hours. That might sound crazy but it's because I do a very detailed intake. I want to learn your whole life story so I can better understand where you are now and how I can help you.
