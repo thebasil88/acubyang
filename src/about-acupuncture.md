@@ -44,18 +44,18 @@ Back in the day, acupuncture was general medicine and was used to treat everythi
 
 There are many studies being conducted on acupuncture but here are a few articles. [Check out my blog](/blog) for more.
 
-* [Letter of Recommendation: Acupuncture](https://www.nytimes.com/2016/03/20/magazine/letter-of-recommendation-acupuncture.html?smid=fb-nytimes&amp;smtyp=cur)
-* [Acupuncture and Your Brain](https://www.autonomicneuroscience.com/article/S1566-0702&#40;15&#41;00035-1/fulltext)
-* [Acupuncture for Stress and Depression](https://www.psychologytoday.com/us/blog/renaissance-woman/201509/acupuncture-stress-and-depression-yes-please)
-* [Acupuncture for Autonomic Disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677642/)
-* [Acupuncture and Herbal Medicine for Crohn's Disease](https://pubmed.ncbi.nlm.nih.gov/30985690/)
-* [Moxibustion for IBS](https://pubmed.ncbi.nlm.nih.gov/30574173/)
-* [Acupuncture for Diabetes](https://www.medicalnewstoday.com/articles/319618)
-* [Acupuncture for Obesity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378065/)
-* [Acupuncture and Cancer Care](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642987/)
-* [Acupuncture Helps With Cancer-Related Fatigue](https://ascopubs.org/doi/full/10.1200/JCO.2012.41.6222)
-* [Acupuncture for Infertility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6182526/)
-* [Acupuncture for Dancers](https://www.dancespirit.com/acupuncture-for-dancers-what-to-expect-and-how-it-works-2474149475.html) ​
+* <a target="_blank" rel="noopener" href="https://www.nytimes.com/2016/03/20/magazine/letter-of-recommendation-acupuncture.html?smid=fb-nytimes&amp;smtyp=cur">Letter of Recommendation: Acupuncture</a>
+* <a target="_blank" rel="noopener" href="https://www.autonomicneuroscience.com/article/S1566-0702(15)00035-1/fulltext">Acupuncture and Your Brain</a>
+* <a target="_blank" rel="noopener" href="https://www.psychologytoday.com/us/blog/renaissance-woman/201509/acupuncture-stress-and-depression-yes-please">Acupuncture for Stress and Depression</a>
+* <a target="_blank" rel="noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3677642/">Acupuncture for Autonomic Disorders</a>
+* <a target="_blank" rel="noopener" href="https://pubmed.ncbi.nlm.nih.gov/30985690/">Acupuncture and Herbal Medicine for Crohn's Disease</a>
+* <a target="_blank" rel="noopener" href="https://pubmed.ncbi.nlm.nih.gov/30574173/">Moxibustion for IBS</a>
+* <a target="_blank" rel="noopener" href="https://www.medicalnewstoday.com/articles/319618">Acupuncture for Diabetes</a>
+* <a target="_blank" rel="noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378065/">Acupuncture for Obesity</a>
+* <a target="_blank" rel="noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642987/">Acupuncture and Cancer Care</a>
+* <a target="_blank" rel="noopener" href="https://ascopubs.org/doi/full/10.1200/JCO.2012.41.6222">Acupuncture Helps With Cancer-Related Fatigue</a>
+* <a target="_blank" rel="noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6182526/">Acupuncture for Infertility</a>
+* <a target="_blank" rel="noopener" href="https://www.dancespirit.com/acupuncture-for-dancers-what-to-expect-and-how-it-works-2474149475.html">Acupuncture for Dancers</a> ​
 
 ## Finding the Right Acupuncturist
 
