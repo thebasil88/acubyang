@@ -5,9 +5,9 @@ layout: 'layouts/descriptor.html'
 
 # Facial Acupuncture
 
-Facial Acupuncture may aready be familiar to you as Facial Rejuvination Acupuncture or Cosmetic Acupuncture. It's a technique gaining in popularity becuase of it's success in achieving a more youthful, glowing appearance. But that's not all it can be used for. Facial Acupuncture can be used to treat skin conditions like acne, ease tension that may be causing TMJ or headaches, and even help with symptoms of Bells Palsy or stroke.
+Facial Acupuncture may already be familiar to you as Facial Rejuvenation Acupuncture or Cosmetic Acupuncture. It's a technique gaining in popularity because of it's success in achieving a more youthful, glowing appearance. But that's not all it can be used for. Facial Acupuncture can be used to treat skin conditions like acne, ease tension that may be causing TMJ or headaches, and even help with symptoms of Bells Palsy or stroke.
 
-Many skin conditions actually start from within the body. Signs of aging, for example, come from a combination of a loss of bone, fat tissue, and a decrease in cell activity. Acne, for many, can be attributed to diet or an imabalences in hormones. Facial Acupuncture uses a combination of points on the face and throughout the body to help support your skin and muscles from the inside out.
+Many skin conditions actually start from within the body. Signs of aging, for example, come from a combination of a loss of bone, fat tissue, and a decrease in cell activity. Acne, for many, can be attributed to diet or an imbalances in hormones. Facial Acupuncture uses a combination of points on the face and throughout the body to help support your skin and muscles from the inside out.
 
 ## What to Expect
 
