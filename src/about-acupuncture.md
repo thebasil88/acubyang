@@ -22,7 +22,7 @@ Your initial visit with me will run from 1.5-2 hours. That might sound crazy but
 
 Follow-up visits are usually about 1 hour. We'll talk about how the previous treatment went, how you're feeling today, and the get the run down of all your bodily functions. And when I say all, I mean ALL. Get used to talking about poop. Follow-up visits for [Facial Acupuncture](/facial-acupuncture/) will generally take about an 1.5 hours as there are extra steps that are taken to treat your skin.
 
-Within every treatment, I will also look at your tongue and feel your pulses. This will tell me what's going on internally and explain why you're feeling the way you're feeling. This is also what informs my diagnosis and treatment plan. Also note that your treatment isn't limited to needling. Acupuncturists also use moxabustion, cupping, gua sha, electrical stimulation, liniments, dietary and lifestyle counseling, and many other techniques to provide a treatment unique to you and how you heal.
+Within every treatment, I will also look at your tongue and feel your pulses. This will tell me what's going on internally and explain why you're feeling the way you're feeling. This is also what informs my diagnosis and treatment plan. Also note that your treatment isn't limited to needling. Acupuncturists also use moxibustion, cupping, gua sha, electrical stimulation, liniments, dietary and lifestyle counseling, and many other techniques to provide a treatment unique to you and how you heal.
 
 Come in something comfortable, bring an open mind, take a deep breath, and relax. I'll be with you every step of the way. ​
 
