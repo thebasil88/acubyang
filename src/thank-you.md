@@ -4,6 +4,6 @@ metadescription: Thank you
 layout: 'layouts/descriptor.html'
 ---
 
-# Thank you!
+# Thank you\!
 
-I will reach out to you as soon as possible!
+I will reach out to you as soon as possible.
