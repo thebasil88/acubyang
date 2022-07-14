@@ -1,6 +1,6 @@
 ---
 title: The Sun and Yang Deficiency
-slug: Summer-time-and-the-livin-is-easy
+slug: The-Sun-and-Yang-Deficiency
 date: 2019-06-21T00:00:00Z
 ---
 
