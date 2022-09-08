@@ -1,9 +1,8 @@
 ---
-title: "About Acupuncture || An Zhuo Ya Acupuncture"
+title: About Acupuncture || An Zhuo Ya Acupuncture
 metadescription: Suffolk Counties Friendliest Acupuncturist
-layout: 'layouts/descriptor.html'
+layout: layouts/descriptor.html
 ---
-
 # About Acupuncture
 
 <img alt="acupuncture chart" class="float-left mr-8" src="/images/acupuncturepoints_1.jpg" />​​​​​
@@ -65,6 +64,6 @@ There are many studies being conducted on acupuncture but here are a few article
 
 <img alt="acupuncture chart" class="float-right ml-8" src="/images//chinese-physician-taking-radial-pulse_1.jpg" />
 
-​Whether you are in physical or emotional pain, facing a life threatening illness or simply want to keep yourself balanced, acupuncture can help. It is important to understand, however, that there are many different styles and needling techniques that are layered with the [practitioner's own style](/about-me/) and qi (energy) to create a treatment. If something isn't working, don't blame acupuncture. Finding the right acupuncturist is like finding the right medication and dose, you have to keep trying until you find what jives with you.
+​Whether you are in physical or emotional pain, facing a life threatening illness or simply want to keep yourself balanced, acupuncture can help. It is important to understand, however, that there are many different styles and needling techniques that are layered with the [practitioner's own style](/about-me/) and qi (energy) to create a treatment. If something isn't working, don't give up on acupuncture. Finding the right acupuncturist is like finding the right medication and dose, you have to keep trying until you find what jives with you.
 
 &nbsp;
