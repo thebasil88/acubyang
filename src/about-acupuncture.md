@@ -7,9 +7,9 @@ layout: layouts/descriptor.html
 
 <img alt="acupuncture chart" class="float-left mr-8" src="/images/acupuncturepoints_1.jpg" />​​​​​
 
-Acupuncture is the insertion of fine needles into strategic points on the body to achieve overall wellness. This technique developed over 3,000 years ago and takes a holistic approach to healing. All the symptoms that you're feeling come down to one root diagnosis: an imbalance between internal organs, and/or pathology that has made it's way into your body. Acupuncture works to correct these imbalances and pathologies by supporting your body's natural ability to heal itself.
+Acupuncture is the insertion of fine needles into strategic points on the body to achieve overall wellness. This technique developed over 3,000 years ago and takes a holistic approach to healing. All the symptoms that you're feeling come down to a root diagnosis: an imbalance between internal organs, and/or pathology that has made it's way into your body. Acupuncture works to correct these imbalances and pathologies by supporting your body's natural ability to heal itself.
 
-You and I are a team. That means that you have as big a role in your healing as I do. Think of it this way: you want to go to the supermarket but there's been a hurricane and there are tree branches blocking your path. What do you do? Call the town, they remove the branches, and then you can travel to the supermarket. Your heath is no different. You have your goal in health, you call your friendly neighborhood acupuncturist, I help remove the obstacles in your path, but you must travel on that path to obtain your goal. *Your* health is *your* responsibility, and your healthcare team is here to support you. ​
+You and I are a team. That means that you have as big a role in your healing as I do. Think of it this way: you want to go to the supermarket but there's been a storm and there are tree branches blocking your path. What do you do? Call the town, they remove the branches, and then you can travel to the supermarket. Your heath is no different. You have your goal, you call your friendly neighborhood acupuncturist, I help remove the obstacles in your path, but you must travel on that path to obtain your goal. *Your* health is *your* responsibility, and your healthcare team is here to support you. ​You got this.
 
 ## &nbsp;
 
@@ -19,9 +19,9 @@ You and I are a team. That means that you have as big a role in your healing as 
 
 Your initial visit with me will run from 1.5-2 hours. That might sound crazy but it's because I do a very detailed intake. I want to learn your whole life story so I can better understand where you are now and how I can help you.
 
-Follow-up visits are usually about 1 hour. We'll talk about how the previous treatment went, how you're feeling today, and the get the run down of all your bodily functions. And when I say all, I mean ALL. Get used to talking about poop. Follow-up visits for [Facial Acupuncture](/facial-acupuncture/) will generally take about an 1.5 hours as there are extra steps that are taken to treat your skin.
+Follow-up visits are usually about 1 hour. We'll talk about how the previous treatment went, how you're feeling today, and the get the run down of all your bodily functions. And when I say all, I mean ALL. Get used to talking about poop. Follow-up visits for [Facial Acupuncture](/facial-acupuncture/) will generally take about 1.5 hours as there are extra steps taken to treat your skin.
 
-Within every treatment, I will also look at your tongue and feel your pulses. This will tell me what's going on internally and explain why you're feeling the way you're feeling. This is also what informs my diagnosis and treatment plan. Also note that your treatment isn't limited to needling. Acupuncturists also use moxibustion, cupping, gua sha, electrical stimulation, liniments, dietary and lifestyle counseling, and many other techniques to provide a treatment unique to you and how you heal.
+Within every treatment, I will also look at your tongue and feel your pulses. This will tell me what's going on internally and explain why you're feeling the way you're feeling. This is also what informs my diagnosis and treatment plan. Your treatment isn't limited to needling. Acupuncturists also use moxibustion, cupping, gua sha, electrical stimulation, liniments, dietary and lifestyle counseling, and many other techniques to provide a treatment plan unique to you and how you heal.
 
 Come in something comfortable, bring an open mind, take a deep breath, and relax. I'll be with you every step of the way. ​
 
