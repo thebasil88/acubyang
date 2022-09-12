@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 metadescription: Suffolk Counties Friendliest Acupuncturist
-layout:
+layout: layouts/descriptor.html
 ---
 ## Frequently Asked Questions
 
