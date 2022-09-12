@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions || An Zhuo Ya Acupuncture
+title: Frequently Asked Questions
 metadescription: Suffolk Counties Friendliest Acupuncturist
 layout: layouts/descriptor.html
 ---
