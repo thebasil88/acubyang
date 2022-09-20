@@ -1,22 +1,20 @@
 {
-	"items": [{
+	"items": [
+		{
 			"text": "Home",
 			"url": "/",
-			"children": {
-
-			}
+			"children": {}
 		},
 		{
 			"text": "Appointments",
 			"url": "/appointments/",
-			"children": {
-
-			}
+			"children": {}
 		},
 		{
 			"text": "Acupunture",
 			"url": "/about-acupuncture/",
-			"children": [{
+			"children": [
+				{
 					"text": "About Acupunture",
 					"url": "/about-acupuncture/",
 					"desc": "Learn about how this ancient medicine can support you on your healthcare journey."
@@ -30,6 +28,11 @@
 					"text": "Facial Acupuncture",
 					"url": "/facial-acupuncture/",
 					"desc": "Not only for cosmetic purposes, this can also be used to treat neurological conditions affecting the face and head."
+				},
+				{
+					"text": "FAQs",
+					"url": "/frequently-asked-questions/",
+					"desc": ""
 				}
 			]
 		},
@@ -41,13 +44,16 @@
 		{
 			"text": "Blog",
 			"url": "/blog",
-			"children": [{
-				"text": "My Blog",
-				"url": "/blog"
-			},{
-				"text": "Youtube",
-				"url": "https://www.youtube.com/channel/UCC5SFqWtgRBYGC28OAkxFpg"
-			}]
+			"children": [
+				{
+					"text": "My Blog",
+					"url": "/blog"
+				},
+				{
+					"text": "Youtube",
+					"url": "https://www.youtube.com/channel/UCC5SFqWtgRBYGC28OAkxFpg"
+				}
+			]
 		}
 	]
 }
