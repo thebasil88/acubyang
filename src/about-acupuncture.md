@@ -59,6 +59,7 @@ There are many studies being conducted on acupuncture but here are a few article
 * <a target="_blank" rel="noopener" href="https://ascopubs.org/doi/full/10.1200/JCO.2012.41.6222">Acupuncture Helps With Cancer-Related Fatigue</a>
 * <a target="_blank" rel="noopener" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6182526/">Acupuncture for Infertility</a>
 * <a target="_blank" rel="noopener" href="https://www.dancespirit.com/acupuncture-for-dancers-what-to-expect-and-how-it-works-2474149475.html">Acupuncture for Dancers</a> ​
+* <a target="_blank" rel="noopener" href="https://www.acupuncturetoday.com/digital/index.php?i=776&amp;s=36274&amp;l=14&amp;a_id=34253&amp;pn=2&amp;r=t&amp;Page=6">Acupuncture for Post-COVID Syndrome</a>
 
 ## Finding the Right Acupuncturist
 
