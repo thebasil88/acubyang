@@ -9,7 +9,7 @@ home_header:
   title2: Acupuncture
   description:
   btn1:
-    text: Contact Me!
+    text: Contact Me
     link: '#form'
   btn2:
     text: Request Appointment
