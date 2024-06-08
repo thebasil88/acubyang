@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npm install tailwindcss
-npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --minify
+npx tailwindcss -i ./styles/tailwind.css -c ./styles/tailwind.config.js -o ./_site/style.css --minify
