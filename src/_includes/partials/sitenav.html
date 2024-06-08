@@ -13,7 +13,7 @@
 				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16" alt="An Zhuo Ya Acupuncture"/>
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
-                  <div  @click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
+                  <div   x-on:click="mobileOpen = true" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-expanded="false">
                     <span class="sr-only">Open main menu</span>
                     <!-- Heroicon name: outline/menu -->
                     <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -28,7 +28,7 @@
 				<div class="relative inline-block" x-data="{open : false}">
 					<a class="font-medium {{ helpers.getLinkActiveState(item.url, page.url) | safe }}" {% if item.children.length > 0 %}
 																											href="{{ item.url }}"
-																											@click.prevent="open=!open"
+																										  x-on:click.prevent="open=!open"
 																									   {% else %}
 																											href="{{ item.url }}"
 																									   {% endif %}>{{ item.text }}
@@ -88,7 +88,7 @@
 				    <img src="/images/logo.jpg"  class="h-12 w-auto sm:h-16"/>
                 </a>
               <div class="-mr-2">
-                <div @click="mobileOpen = false" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                <div  x-on:click="mobileOpen = false" type="button" class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span class="sr-only">Close main menu</span>
                   <!-- Heroicon name: outline/x -->
                   <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
