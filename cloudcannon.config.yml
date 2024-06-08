@@ -4,7 +4,14 @@ paths:
   data: _data
   layouts: _includes
   includes: _includes
-collections_config: {}
+collections_config: 
+  pages:
+    path: ""
+    filter: strict
+    output: true
+  posts:
+    path: posts
+    output: true
 _inputs: {}
 _select_data: {}
 _structures: {}
