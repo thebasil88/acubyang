@@ -1,6 +1,6 @@
 ---
 title: Trigger Point Dry Needling
-layout: 'layouts/descriptor.html'
+layout: 'layouts/maintenance.html'
 ---
 
 # Trigger Point Dry Needling

@@ -1,7 +1,7 @@
 ---
 title: AcuByAng || About Me
 metadescription: Learn Andrea (Cillo) Blom's background in Acupuncture and Dry Needling
-layout: layouts/descriptor.html
+layout: layouts/maintenance.html
 ---
 # About Andrea (Cillo) Blom M.S., L.Ac.
 

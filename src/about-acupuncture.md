@@ -1,7 +1,7 @@
 ---
 title: About Acupuncture || An Zhuo Ya Acupuncture
 metadescription: Suffolk Counties Friendliest Acupuncturist
-layout: layouts/descriptor.html
+layout: layouts/maintenance.html
 ---
 # About Acupuncture
 

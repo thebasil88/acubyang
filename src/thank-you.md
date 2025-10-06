@@ -1,7 +1,7 @@
 ---
 title: 'AcuByAng || About Me'
 metadescription: Thank you
-layout: 'layouts/descriptor.html'
+layout: 'layouts/maintenance.html'
 ---
 
 # Thank you\!

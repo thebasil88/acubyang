@@ -1,7 +1,7 @@
 ---
 title: 'AcuByAng || Blog'
 metadescription: Blog Posts
-layout: 'layouts/blog_feed.html'
+layout: 'layouts/maintenance.html'
 pagination:
   data: collections.blog
   size: 60

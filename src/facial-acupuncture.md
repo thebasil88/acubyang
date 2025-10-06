@@ -1,6 +1,6 @@
 ---
 title: Facial Acupuncture
-layout: 'layouts/descriptor.html'
+layout: 'layouts/maintenance.html'
 ---
 
 # Facial Acupuncture
